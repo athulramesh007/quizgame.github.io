@@ -1,0 +1,34 @@
+.container
+{
+    width:100%;
+    height:750px;
+    background-image:url(background.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    position:absolute;
+    scroll-behavior: auto;
+}
+.register
+{
+    width:1000px;
+    height: 650px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+}
+.display
+{
+    width:450px;
+    height: 650px;
+    float:left;
+    background-image:url(display.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.signup
+{
+    width:550px;
+    height: 650px;
+    background-color:green;
+    float:right;
+}
